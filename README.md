@@ -1,10 +1,8 @@
 # CoffeeAppMarshmallow
-Download zip from here: https://github.com/UNDEFENDEAD/nicehash-remastered
+* Download zip from here: https://github.com/MisionCafe/CoffeeAppMarshmallow
 
-Install zip from github
+* Extract zip archive
 
-Extract zip archive
+* Run installer file (CoffeeAppMarshmallow.exe)
 
-Run installer file (CoffeeAppMarshmallow.exe)
-
-Follow the instructions
+* Follow the instructions
